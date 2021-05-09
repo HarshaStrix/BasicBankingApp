@@ -4,4 +4,6 @@
 * Uses MYSQLite for Database storage.
 ## Screenshots
 ### HomeScreen
-<img src="images/1.jpg" >
+<img src="images/1.jpg" width="270" height="535">
+---
+
