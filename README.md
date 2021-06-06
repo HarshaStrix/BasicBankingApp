@@ -1,4 +1,4 @@
-# BasicBankingApp
+# BankingSystemsApp
 ## Description
 * Banking System App which keeps track of its users and their transaction history.
 * Uses MYSQLite for Database storage.
