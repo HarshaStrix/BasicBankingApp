@@ -3,6 +3,12 @@
 * Banking System App which keeps track of its users and their transaction history.
 * Uses MYSQLite for Database storage.
 
+## Author
+* Sree Harsha - aka [HarshaStrix][website]
+* My Portfolio Website - [(myfolio-strixblog)][website]
+
+[website]: https://myfolio-strixblog.web.app/
+
 ## Screenshots
 ### HomeScreen
 <img src="images/1.jpg" width="270" height="535">
